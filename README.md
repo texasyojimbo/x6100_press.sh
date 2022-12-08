@@ -6,3 +6,8 @@ I haven't tested this on the "stock" Linux OS. I used crazycat's Armbian because
 Use at your own risk, etc.
 
 One of the biggest problems is this just presses buttons; you'll need to use VNC or CAT to determine the state of the radio (i.e. frequency, mode, etc.).
+
+Also this doesn't handle hand-mic or morse code key. Those do not seem to trigger events.
+
+
+73s de AD5NL
