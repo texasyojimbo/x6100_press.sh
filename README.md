@@ -9,5 +9,6 @@ One of the biggest problems is this just presses buttons; you'll need to use VNC
 
 Also this doesn't handle hand-mic or morse code key. Those do not seem to trigger events.
 
+Demonstration video: https://www.youtube.com/watch?v=T6632P8i37g&ab_channel=JamesDallas
 
 73s de AD5NL
