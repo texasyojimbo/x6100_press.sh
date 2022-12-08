@@ -13,4 +13,6 @@ Demonstration video: https://www.youtube.com/watch?v=T6632P8i37g&ab_channel=Jame
 
 Note that emulating the power key (PWR-OFF) only seems to shut down the SoC, including the display and input buttons. I still hear static and the light on the microphone is still on (and pressing the PTT mic actually lights up the transmit light!). Using this option should at the very least reduce battery consumption, and probably keeps the radio from transmitting unattended/remotely. But it's only half as useful as it could/should be.
 
+The web server script (x6100_press_server.sh) uses netcat. It is pretty slow and not always reliable. This is more a proof-of-concept. A python or perl based server would probably work better.
+
 73s de AD5NL
